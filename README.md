@@ -52,15 +52,6 @@ YouTube #2: [https://youtube.com/shorts/sjjK5pxck9I?feature=share](https://youtu
 
 ---
 
-## 📂 **Repository Contents**
-
-* **Transmitter code** (RemoteXY-based WiFi transmitter)
-* **Receiver code** (ESP8266 PPM signal generator)
-* **Circuit connection guide**
-* **RemoteXY GUI configuration file**
-* Example screenshots and usage instructions
-
----
 
 Perfect for **makers, hobbyists, and drone enthusiasts** looking to build a low-cost, customizable **PPM-based RC system** using ESP8266 and smartphone control!
 
